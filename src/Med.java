@@ -4,5 +4,6 @@ public class Med {
 
         String name = "muhammet";
         String lastname ="duman";
+        int age = 32;
     }
 }
