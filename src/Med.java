@@ -6,5 +6,7 @@ public class Med {
         String lastname ="duman";
         int age = 32;
         int a =5;
+        double salary = 200000;
+
     }
 }
